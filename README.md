@@ -45,7 +45,7 @@ typedef struct s_list {
 
 ### Clone the Project
 ```sh
-git clone https://github.com/nalveiz/libft
+git clone https://github.com/Nalveiz/libft
 cd libft
 ```
 
